@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListaHoteles</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Estrellas">Estrellas</string>
+    <string name="Precio">Precio</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Valoraciones">Valoraciones</string>
+    <string name="Select">Seleccione un hotel:</string>
+    <string name="Fecha_Ida">Fecha Ida:</string>
+    <string name="Fecha_Vuelta">Fecha Vuelta:</string>
+    <string name="Estancia">Días de estancia:</string>
+    <string name="txt_precio">Precio:</string>
+    <string name="Eleccion">Elección</string>
+</resources>
